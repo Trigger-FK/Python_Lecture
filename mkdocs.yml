@@ -58,3 +58,5 @@ nav:
   - introduction:
     - Pythonについて: about_python.md
     - PyPIとAnaconda: conda_vs_pypi.md
+  - Setup:
+    - venvによる仮想環境: setup_venv.md
