@@ -35,9 +35,7 @@ Windowsの人はAnacondaの環境構築を行う前に、**ユーザ名が日本
     また、チェックを入れない場合でも、Anacondaの環境を使うことは可能です。
 
 !!! note
-    インストール時に「Install for me only」か「Install on this location」かを選択する画面が出ますが、**「Install for me only」を選択してください。**  
-    これを選択すると、Anacondaの環境がPC全体に影響を与えるため、他のアプリケーションに影響を与える可能性があります。  
-    また、この選択をした場合でも、Anacondaの環境を使うことは可能です。
+    インストール時に「Install for me only」か「Install on this location」かを選択する画面が出ますが、**「Install for me only」を選択してください。**
 
 ### Linuxの場合
 ダウンロードしたインストーラをターミナルで実行します。
