@@ -55,10 +55,14 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - introduction:
+  - Introduction:
     - Pythonについて: about_python.md
     - PyPIとAnaconda: conda_vs_pypi.md
-  - Setup:
+  - Setup (Local environment):
     - Python公式版の環境構築: setup_python.md
     - Anacondaの環境構築: setup_anaconda.md
-    - venvによる仮想環境: setup_venv.md
+  - Setup (Virtual environment):
+      - 仮想環境のすゝめ: virtual_environment.md
+      - venvによる仮想環境: setup_venv.md
+      - condaによる仮想環境: setup_conca_venv.md
+      # - poetryによる仮想環境: setup_poetry.md
