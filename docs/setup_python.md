@@ -46,12 +46,14 @@
 メモ帳を使ってもいいですが、エディタを使うとコーディングがしやすくなります。わかりやすく言うと、幸せになれます。
 
 エディタにはいろんな種類があり、
+
 - Visual Studio Code
 - Atom
 - Emacs
 - Vim
 - Sublime Text 3
 - Eclipse
+
 などなど、色々あります。どれを使っても構いません。
 
 執筆者は、Visual Studio Codeを使っています。
